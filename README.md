@@ -16,8 +16,3 @@ Este proyecto implementa una API Web para interactuar con una base de datos JSON
 ### `getServerURL()`
 
 Devuelve la URL del servidor JSON en ejecución.
-
-**Ejemplo de uso:**
-```javascript
-const { getServerURL } = require('./api');
-console.log(getServerURL()); // Imprime la URL del servidor
