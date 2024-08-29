@@ -2,8 +2,7 @@
 
 Este proyecto implementa una API Web para interactuar con una base de datos JSON de usuarios utilizando [json-server](https://github.com/typicode/json-server). La API permite listar, agregar y eliminar usuarios en un servidor local que emula una API REST.
 
-![Diagrama del Proyecto](https://github.com/tu_usuario/tu_repositorio/blob/main/ruta/a/tu/imagen.png)
-
+![Diagrama del Proyecto](https://github.com/Jhonatan0124/web-api-usuarios/raw/main/4%20passed%20in%204.89s.png)
 
 ## Funcionalidades
 
